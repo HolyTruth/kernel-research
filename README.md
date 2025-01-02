@@ -1,3 +1,5 @@
+run env.sh before using tools
+
 # Linux kernel security research tools
 
 This repository contains useful tools for Linux kernel security research:
